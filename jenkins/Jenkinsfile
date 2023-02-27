@@ -34,7 +34,7 @@ pipeline{
         
         stage("Complete"){
             steps{
-                echo "Completed3!!"
+                echo "Completed Done!!"
             }
             
         }
